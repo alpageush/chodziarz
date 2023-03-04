@@ -1,3 +1,82 @@
 {
-  "chuj": "siema"
+  "roads": [
+    {
+      "name": "A do D",
+      "description": "Droga prowadząca z budynku A do budynku B. Zapomniana przez nowych amatorów nowosolskich podróży. Zawiera wiele przeszkód po drodze, między innymi sklep monopolowy, czy też cukiernię, które utrudniają dotarcie do celu o czasie.",
+      "image": "https://imgur.com/a/5uKnKrj",
+      "length": 1.6,
+      "best_time": 15,
+      "best_time_date": "21.09.2021",
+      "type": 0,
+      "username": 0,
+      "user_time": 17,
+      "user_time_date": "23.10.2021"
+    },
+    {
+      "name": "Długa Przerwa Route",
+      "description": "Droga prowadząca z budynku A do Biedronki z ewentualnym pitstopem w restauracji sieci Złotych Łuków.",
+      "image": "https://imgur.com/a/pXU4vmI",
+      "length": 0.35,
+      "best_time": 3,
+      "best_time_date": "21.09.2022",
+      "type": 0,
+      "username": 1,
+      "user_time": 3,
+      "user_time_date": "21.09.2022"
+    },
+    {
+      "name": "Kolej na Rower",
+      "description": "Ścieżka rowerowa biegnie na odcinku Stypułów-Sławocin śladem nieczynnej linii kolejowej nr 371 relacji Żagań-Wolsztyn w granicach powiatu nowosolskiego.",
+      "image": "https://imgur.com/a/xQZ2zqb",
+      "length": 58.5,
+      "best_time": 180,
+      "best_time_date": "03.07.2021",
+      "type": 1,
+      "username": 0,
+      "user_time": 200,
+      "user_time_date": "17.10.2022"
+    },
+    {
+      "name": "Kolej na Rower (na pieszo)",
+      "description": "Ścieżka rowerowa Kolej na Rower, tylko że na pieszo.",
+      "image": "https://etraper.pl/pub/media/mgs_blog/e/t/etraper_kolej_na_rower_cie_ka_rowerowa_powiat_nowosolski_nowa_s_l_01_most_w_stanach.jpg",
+      "length": 58.5,
+      "best_time": 500,
+      "best_time_date": "01.04.2020",
+      "type": 0,
+      "username": 2,
+      "user_time": 700,
+      "user_time_date": "29.02.2020"
+    },
+    {
+      "name": "NAZWA",
+      "description": "OPIS",
+      "image": "https://imgur.com/a/LINK",
+      "length": 0,
+      "best_time": 0,
+      "best_time_date": "00.00.0000",
+      "type": 0,
+      "username": 0,
+      "user_time": 0,
+      "user_time_date": "00.00.0000"
+    },
+    {
+      "name": "NAZWA",
+      "description": "OPIS",
+      "image": "https://imgur.com/a/LINK",
+      "length": 0,
+      "best_time": 0,
+      "best_time_date": "00.00.0000",
+      "type": 0,
+      "username": 0,
+      "user_time": 0,
+      "user_time_date": "00.00.0000"
+    }
+  ],
+  "usernames": [
+    "admin", "alan", "adams"
+  ],
+  "road_types": [
+    "chodzenie", "rowerowa"
+  ]
 }
