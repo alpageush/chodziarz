@@ -49,28 +49,28 @@
       "user_time_date": "29.02.2020"
     },
     {
-      "name": "NAZWA",
-      "description": "OPIS",
-      "image": "https://imgur.com/a/LINK",
-      "length": 0,
-      "best_time": 0,
-      "best_time_date": "00.00.0000",
-      "type": 0,
+      "name": "Nascar",
+      "description": "Trasa, na której jeździ sie w koło i skręca tylko w lewo",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/05/pixar-cars.jpg",
+      "length": 3.22,
+      "best_time": 12,
+      "best_time_date": "30.05.2000",
+      "type": 1,
       "username": 0,
-      "user_time": 0,
-      "user_time_date": "00.00.0000"
+      "user_time": 45,
+      "user_time_date": "13.02.2012"
     },
     {
-      "name": "NAZWA",
-      "description": "OPIS",
-      "image": "https://imgur.com/a/LINK",
-      "length": 0,
-      "best_time": 0,
-      "best_time_date": "00.00.0000",
-      "type": 0,
-      "username": 0,
-      "user_time": 0,
-      "user_time_date": "00.00.0000"
+      "name": "Czarny Szlak",
+      "description": "Piękny zjazd z wielkiej czarnej góry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Black_Mountains-27527-2.jpg",
+      "length": 2.512,
+      "best_time": 10,
+      "best_time_date": "01.11.2005",
+      "type": 1,
+      "username": 2,
+      "user_time": 30,
+      "user_time_date": "18.10.2005"
     }
   ],
   "usernames": [
